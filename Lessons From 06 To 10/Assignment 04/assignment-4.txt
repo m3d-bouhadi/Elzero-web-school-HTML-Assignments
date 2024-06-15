@@ -1,0 +1,19 @@
+<p>Hello World</p>
+
+<p>
+Hello World
+</p>
+
+<p>
+Hello
+World
+</p>
+
+<p>
+Hello
+
+
+World
+</p>
+
+=> All the paragragh elements will be display the same way. 

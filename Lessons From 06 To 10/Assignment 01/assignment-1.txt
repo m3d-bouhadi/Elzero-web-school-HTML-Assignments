@@ -1,0 +1,14 @@
+<!-- Type Question 1 Answer Below -->
+" <!DOCTYPE html> "
+
+<!-- Type Question 2 Answer Below -->
+" Quirks Mode "
+
+<!-- Type Question 3 Answer Below -->
+" No "
+
+<!-- Type Question 4 Answer Below -->
+" No "
+
+<!-- Type Question 5 Answer Below -->
+" Headings; h1 is the biggest one and h6 is the smallest "
