@@ -1,0 +1,5 @@
+1- We use links to move from one page to another.
+2- WE use links to send an email using your default email program.
+3- We use links to navigate within the same page using id or class.
+4- We use links to download files from the site.
+
