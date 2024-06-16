@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+    <form action="test.py" method="post">
+        <label for="usr">Username</label>
+        <input type="text" name="Username" id="usr" placeholder="what do you like call you?" required>
+        <hr>
+        <label for="pass">Password</label>
+        <input type="password" name="Password" placeholder="enter a strong password!" id="pass">
+        <hr>
+        <label for="mail">Email</label>
+        <input type="email" name="Email" id="mail" placeholder="e.g. m3d@gmail.com" required>
+        <hr>
+        <label for="sub">Subject</label>
+        <input type="text" name="Subject" placeholder="any information?" id="sub">
+        <hr>
+        <label for="mob">Mobile</label>
+        <input type="tel" pattern="(\+|00)?212\d{9,10}" placeholder="+212 716-268986" id="mob">
+        <hr>
+        <input type="hidden" name="number" value="3301">
+        <button type="reset">Empty Form</button>
+        <button type="submit">Send Data</button>
+    </form>
+</body>
+
+</html>
